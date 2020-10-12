@@ -1,5 +1,5 @@
 ---
-title: 개발자와 커뮤니케이션 스킬 (1편) - 커뮤니케이션 스킬의 중요성
+title: 개발자와 커뮤니케이션 스킬 (1편) - 커뮤니케이션 스킬은 왜 중요할까?
 date: 2020-10-11
 author: F-Lab
 tags: communication developer
