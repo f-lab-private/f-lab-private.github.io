@@ -164,6 +164,6 @@ if (isExistUser(userId)) {
 채용 공고 : [https://www.notion.so/F-Lab-07cc5e8e36724c68ae08f64afd93a9df](https://www.notion.so/F-Lab-07cc5e8e36724c68ae08f64afd93a9df)
 
 ### 멘티 모집
-[F-Lab](https://intro.f-lab.kr)에서 교육받기를 희망하시는 분들은 아래의 홈페이지에서 내용을 읽어보신 다음 신청해주시면 감사하겠습니다.
+[F-Lab](https://intro.f-lab.kr)에서 멘토링 받기를 희망하시는 분들은 아래의 홈페이지에서 내용을 읽어보신 다음 신청해주시면 감사하겠습니다.
 
 홈페이지 : [https://intro.f-lab.kr](https://intro.f-lab.kr)
