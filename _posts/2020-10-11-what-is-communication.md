@@ -154,16 +154,9 @@ if (isExistUser(userId)) {
 이 글이 개발자로써 역량을 쌓고 있는 분들께 도움이 되었기를 바라며 긴 글 읽어주셔서 감사합니다.
 
 # 홍보
-### 멘토 채용
-[F-Lab](https://intro.f-lab.kr)에서는 개발 실력과 커뮤니케이션 능력이 뛰어난 멘토를 모집하고 있습니다.
-
-금전적으로 최고의 보상을 드리고 있으며, 자율적인 근무 시간과 100% 재택근무이기에 부업으로 근무하실 수도 있습니다. 원하실 경우 익명도 최대한 보장해드립니다.
-
-자세한 내용은 아래의 공고를 참고해주시기 바랍니다.
-
-채용 공고 : [https://www.notion.so/F-Lab-07cc5e8e36724c68ae08f64afd93a9df](https://www.notion.so/F-Lab-07cc5e8e36724c68ae08f64afd93a9df)
-
 ### 멘티 모집
-[F-Lab](https://intro.f-lab.kr)에서 멘토링 받기를 희망하시는 분들은 아래의 홈페이지에서 내용을 읽어보신 다음 신청해주시면 감사하겠습니다.
+[F-Lab](https://3th.f-lab.kr)에서는 현재 수강생들을 모집하고 있습니다.
 
-홈페이지 : [https://intro.f-lab.kr](https://intro.f-lab.kr)
+[F-Lab](https://3th.f-lab.kr)에서 멘토링 받기를 희망하시는 분들은 아래의 홈페이지에서 내용을 읽어보신 다음 신청해주시면 감사하겠습니다.
+
+홈페이지 : [https://3th.f-lab.kr](https://3th.f-lab.kr)
