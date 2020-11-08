@@ -1,6 +1,6 @@
 ---
 title: 개발자는 왜 40살에 치킨집을 차리게 될까?
-date: 2020-11-07
+date: 2020-11-09
 author: F-Lab
 tags: developer
 excerpt : 개발자로 살아감에 있어 이론의 중요성에 대한 이야기를 담았습니다. 
