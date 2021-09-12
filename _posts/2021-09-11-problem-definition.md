@@ -1,8 +1,8 @@
 ---
 title: 문제 해결 능력에 앞서 문제 정의 능력이 중요하다.
-date: 2021-09-11
+date: 2021-09-12
 author: F-Lab
-tags: developer career problem solve
+tags: developer career problem definition solve growth
 excerpt : 개발자는 문제 해결 능력이 중요하다고 하지만, 애초에 내가 당면한 문제가 무엇인지부터 인지하는 능력이 중요합니다. 이 글에서는 그러한 문제 정의 능력에 대해 얘기합니다.
 ---
 
