@@ -22,7 +22,7 @@ url     : https://blog.f-lab.kr # the base hostname & protocol for your site e.g
 baseurl : # does not include hostname
 title   : F-Lab
 description: > # this means to ignore newlines until "Language & timezone"
-  고스펙 개발자의 개발 멘토링
+  상위 1% 개발자들의 멘토링 & 커뮤니티
 
 
 ## => Language and Timezone
