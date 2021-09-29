@@ -1,5 +1,5 @@
 ---
-title: F-Lab이 생각하는 좋은 멘토의 모습
+title: 좋은 멘토의 모습
 date: 2021-09-30
 author: F-Lab
 tags: developer mentoring mentor
